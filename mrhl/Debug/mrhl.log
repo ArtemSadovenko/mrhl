@@ -1,0 +1,6 @@
+﻿  Date.cpp
+D:\visual studio projects\mrhl\Date.cpp(32,51): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+D:\visual studio projects\mrhl\Date.cpp(37,50): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+D:\visual studio projects\mrhl\Date.cpp(42,51): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+D:\visual studio projects\mrhl\Date.cpp(80): warning C4715: Date::to_int: значение возвращается не при всех путях выполнения
+  mrhl.vcxproj -> D:\visual studio projects\mrhl\Debug\mrhl.exe
